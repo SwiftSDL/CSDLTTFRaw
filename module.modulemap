@@ -1,0 +1,5 @@
+module CSDLImageRaw [system] {
+  header "CSDLImageRaw.h"
+  link "SDL2_image"
+  export *
+}
