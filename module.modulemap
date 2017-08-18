@@ -1,5 +1,5 @@
-module CSDLImageRaw [system] {
-  header "CSDLImageRaw.h"
-  link "SDL2_image"
+module CSDLTTFRaw [system] {
+  header "CSDLTTFRaw.h"
+  link "SDL2_ttf"
   export *
 }
